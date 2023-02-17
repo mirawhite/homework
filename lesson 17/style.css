@@ -1,0 +1,15 @@
+div {
+    color: blueviolet;
+}
+
+.bla {
+    color: brown;
+}
+
+#pla {
+    color: cyan;
+}
+
+div.bla {
+    color: forestgreen;
+}
