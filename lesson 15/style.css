@@ -1,0 +1,11 @@
+p.text--bold {
+    color: blueviolet;
+}
+
+.parent .child {
+    color: cornflowerblue;
+}
+
+a[href="#block"] {
+    color: rgb(149, 24, 68);
+}
