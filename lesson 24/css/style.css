@@ -1,0 +1,141 @@
+/* .wrapper {
+    padding: 100px 15px;
+    height: 100vh;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+    height: 100%;
+    border: 10px solid #999;
+    display: flex;
+}
+
+.block {
+    height: 300px;
+    width: 100%;
+    max-width: 200px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.842);
+}
+
+.red {
+    background-color: rgb(235, 118, 118);
+}
+
+.blue {
+    background-color: rgb(80, 91, 235);
+}
+
+.orange {
+    background-color: rgb(224, 158, 59);
+}
+
+.green {
+    background-color: rgb(113, 212, 113);
+}
+
+.purple {
+    background-color: rgb(205, 148, 231);
+}
+
+/* ------------------------------------------------------ */
+
+/* .blue {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    z-index: -1;
+}
+
+/* .container {
+    position: relative;
+} */
+
+/* .orange {
+    position: absolute;
+    top: 300;
+    left: 500;
+}
+
+.red {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    z-index: -1;
+} */
+
+/* .green {
+    position: sticky;
+    top: 0;
+} */
+
+/* .parent {
+    margin-top: 25vh;
+    margin-bottom: 25vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    height: 50vh;
+    width: 20vw;
+    border: 5px solid #000000;
+} */
+
+/* .parent {
+    margin: 0 auto;
+    max-width: 1000px;
+    height: 100%;
+    border: 5px solid black;
+    padding: 100px 15px; */
+/* 
+
+/* .block {
+    height: 300px;
+    width: 100%;
+    max-width: 200px;
+    background-color: aquamarine;
+} */
+
+/* .parent {
+    border: 5px solid black;
+    width: 30vw;
+    height: 40vh;
+    background-position: center center;
+} */
+
+/* .block {
+    box-sizing: content-box;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: #d71111
+} */
+
+/* .parent {
+    padding: 100px 100px 100px; 
+    height: 100vh;
+}
+
+.block {
+    height: 100%;
+    border: 5px solid black;
+    border-radius: 20px;
+    background-color: bisque;
+} */
+
+.parent {
+    padding-right: 50px;
+}
+
+.block {
+    height: 150px;
+    width: 100vh;
+    background-color: rgb(168, 133, 201);
+
+}
+
+.block {
+    position: fixed;
+    left: 50vw;
+    bottom: 100px;
+}
+

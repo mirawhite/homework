@@ -1,0 +1,18 @@
+.parent {
+    padding-right: 50px;
+}
+
+.child {
+    height: 150px;
+    width: 150px;
+    background: linear-gradient(#333, #d26868);
+    border: 1px solid black;
+
+}
+
+.child {
+    position: fixed;
+    left: 50vw;
+    top: 50vh;
+    transform: translate(10vw, 0) rotate(-30deg);
+}
