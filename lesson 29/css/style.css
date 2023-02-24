@@ -1,0 +1,18 @@
+.items {
+    box-sizing: border-box;
+    width: 100%;
+    background-color: rgb(191, 154, 214);
+    border: 5px solid #333;
+    text-align: center;
+    /* vertical-align: middle; */
+}
+
+.grid {
+    width: 100%;
+    height: 300px;
+    /* если я убираю нижнюю строчку, при уменьшении экрана ширинпа третьего столбика получается 110 минимальная */
+    border: 10px solid #333;
+    display: grid;
+    grid-template: auto auto / 1fr 1fr minmax(100px, 200px) 1fr 1fr;
+}
+
